@@ -16,7 +16,7 @@ Siga las instrucciones para correr el programa App
 ``` sh
 git clone
 cd app
-python -m venv env
+python3 -m venv env
 source env/bin/activate
 pip3 install -r requirements.txt
 python3 main.py
